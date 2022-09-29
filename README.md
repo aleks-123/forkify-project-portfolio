@@ -2,7 +2,7 @@
 ![Logo](https://forkify-aleksandar-milosheski.netlify.app/logo.8a7af738.png)
 
 
-## Demo
+## Link
 
 https://forkify-aleksandar-milosheski.netlify.app/
 
@@ -10,7 +10,8 @@ https://forkify-aleksandar-milosheski.netlify.app/
 
 A recipe search application made with javascript.
 
-
+## Screenshots
+![App Screenshot](https://user-images.githubusercontent.com/82302032/150722005-25ad90ef-d542-42b1-b3b0-8391c90d7bc6.png)
 
 ## About The Project
 
